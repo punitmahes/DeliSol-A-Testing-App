@@ -1,16 +1,20 @@
-# application
+# Delisol 
 
-A new Flutter project.
+A new Flutter project
 
-## Getting Started
+## Functionalities.
 
-This project is a starting point for a Flutter application.
+1)Splash Screen
+2)Login Screen: Allow user to login into the app with Email and password.
+3) Sign Up Page: Allow user to create a new account. (No contraint is added , Only all the fields should be populated to create  new account)
+4) Home Scrren: Retrives Name and phone number from the getDetails and set them as initial value of the TextFields.
+5) Start and Status: Send a post requests \notification API
+6)Geolocation: Retrives the data from current location and send a post request to the \API in every 1000 seconds.
 
-A few resources to get you started if this is your first Flutter project:
+## Functionalities needs to be implemented
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1) Notification sound on pressing start and status
+2) Correctly handaling wrong login crendentials
+3)(Additional) Retriving location data from the latitude and longitude and populating the Address fied in home page.  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
