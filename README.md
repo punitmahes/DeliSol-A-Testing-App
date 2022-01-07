@@ -18,5 +18,5 @@ A new Flutter project
 * (Additional) Retriving location data from the latitude and longitude and populating the Address fied in home page.  
 
 ## Application Demo
-<img src="demo/demo.gif" width="250" height="250"/>
+<img src="demo/demo.gif" width="250" height="700"/>
 
