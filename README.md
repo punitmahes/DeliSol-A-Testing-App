@@ -17,4 +17,6 @@ A new Flutter project
 *  Correctly handaling wrong login crendentials
 * (Additional) Retriving location data from the latitude and longitude and populating the Address fied in home page.  
 
+## Application Demo
+![ApplicationDemo](demo/demo.gif)
 
